@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Apr 17 16:11:47 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-395e-1007-00000e63a780 
+on database directory C:\Users\Nathan\Documents\NetBeansProjects\Snake\Snake\ChargerSnake\LeaderBoard with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/Nathan/Documents/NetBeansProjects/Snake/Snake/ChargerSnake/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=C:\Users\Nathan\Documents\NetBeansProjects\Snake\Snake\ChargerSnake
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Apr 17 16:11:47 CDT 2022:
+Shutting down instance a816c00e-0180-395e-1007-00000e63a780 on database directory C:\Users\Nathan\Documents\NetBeansProjects\Snake\Snake\ChargerSnake\LeaderBoard with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
